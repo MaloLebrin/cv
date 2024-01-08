@@ -1,4 +1,4 @@
-![cv](https://github.com/MaloLebrin/cv/public/screenshot.png)
+![cv](https://github.com/MaloLebrin/cv/blob/main/public/screenshot.png?raw=true)
 
 # Minimalist CV
 
